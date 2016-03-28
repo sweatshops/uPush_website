@@ -75,10 +75,12 @@ h1.title{
   color: #FFF;
 
   /* chrome,safari only */
+  /*
   background: -webkit-linear-gradient(top, #FFF 0%, #FFF 60%, #888 80%);
   background: linear-gradient(top, #FFF 0%, #FFF 60%, #888 80%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  */
 
   /* margin */
   margin-bottom: 0.5em;
